@@ -184,7 +184,7 @@ export default function SocialLinksPage() {
 
                   ${
                     social.primary
-                      ? "border-[#B9C7E4]/40 bg-[#B9C7E4]/10"
+                      ? "border-white/10 bg-white/[0.04]"
                       : "border-white/10 bg-white/[0.04]"
                   }
 
